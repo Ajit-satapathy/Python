@@ -1,4 +1,4 @@
-
+ # Inverting Dictionary
 def invert(d):
 
     newd = {}
